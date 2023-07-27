@@ -11,6 +11,7 @@ This is a simple Expense Tracker program written in Python. The program allows u
 2. Open Admin Settings
 3. Memory Options
 4. Quit
+
 =====================================
 
 
